@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Month</Data></Cell>
+			<Cell><Data ss:Type="String">Year</Data></Cell>
+			<Cell><Data ss:Type="String">Gross_sales_amount_mln</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">August</Data></Cell>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">7.18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">July</Data></Cell>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">12.09</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">June</Data></Cell>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">9.82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">May</Data></Cell>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">12.15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">April</Data></Cell>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">7.31</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">March</Data></Cell>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">12.14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">February</Data></Cell>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">10.13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">January</Data></Cell>
+			<Cell><Data ss:Type="Number">2021</Data></Cell>
+			<Cell><Data ss:Type="Number">12.40</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">December</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">12.94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">November</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">20.46</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">October</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">13.22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">September</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">12.35</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">August</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">2.79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">July</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">2.55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">June</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">1.70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">May</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">0.78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">April</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">0.40</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">March</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">0.38</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">February</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">January</Data></Cell>
+			<Cell><Data ss:Type="Number">2020</Data></Cell>
+			<Cell><Data ss:Type="Number">4.74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">December</Data></Cell>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="Number">4.83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">November</Data></Cell>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="Number">7.52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">October</Data></Cell>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="Number">5.14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">September</Data></Cell>
+			<Cell><Data ss:Type="Number">2019</Data></Cell>
+			<Cell><Data ss:Type="Number">4.50</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
