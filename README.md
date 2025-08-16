@@ -33,7 +33,7 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 
 - **MySQL** – Data analysis & query execution
 - **Power BI** – Dashboard creation & visualization
-- **Excel** – Data preparation & minor transformations
+- **Excel** – Stored query outputs as structured Excel files.
 
 
 ---
@@ -43,7 +43,7 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 
 
 1. Sales trends by product, region, and division.
-2. Top-selling products based on quantity and revenue.
+2. Top-selling products based on quantity.
 3. Customer segmentation and purchasing patterns.
 4. Inventory performance and stock movement.
 5. Profitability analysis by category.
