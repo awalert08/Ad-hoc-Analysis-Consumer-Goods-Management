@@ -88,7 +88,7 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/your-username/atliq-hardware-analysis.git
+   git clone https://github.com/awalert08/Ad-hoc-Analysis-Consumer-Goods-Management.git
    
 2. Port SQL scripts into MySQL Workbench and run them on your dataset.
 3. Open the Power BI report file and refresh the data connection.
