@@ -77,7 +77,7 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 ## 🔗 Project Links
 
 
-📊 PowerBI Dashboard : [Explore the Dashboard](atliq-hw-adhoc-analysis-powerbi/AtliQHardwares-SQLAd-hocAnalysis.pbix)  
+📊 Power BI Dashboard : [Explore the Dashboard](https://github.com/awalert08/Ad-hoc-Analysis-Consumer-Goods-Management/blob/main/atliq-hw-adhoc-analysis-powerbi/AtliQ%20Hardwares%20-%20SQL%20Ad-hoc%20Analysis.pbix)  
 
 💼 [LinkedIn Project Post](https://www.linkedin.com/posts/arti-awale_sql-powerbi-dataanalytics-activity-7363842308972118016-D5Au?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cuBwBJtFBcGef4reG7gx9fr-bRZjlHH0)  
 
