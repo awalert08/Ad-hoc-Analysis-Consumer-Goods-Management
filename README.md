@@ -68,7 +68,7 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 
 
 [ Dashboard Overview ]
-[Visualization for Ad-hoc Requests.](atliq-hw-adhoc-analysis-powerbi/DashboardScreenshot.png)
+[Visualization for Ad-hoc Requests.](atliq-hw-adhoc-analysis-powerbi/Dashboard Screenshot.png)
 
 
 ---
@@ -77,7 +77,7 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 ## 🔗 Project Links
 
 
-📊 PowerBI Dashboard : [Explore the Dashboard](atliq-hw-adhoc-analysis-powerbi/AtliQ Hardwares - SQL Ad-hoc Analysis.pbix)  
+📊 PowerBI Dashboard : [Explore the Dashboard](atliq-hw-adhoc-analysis-powerbi/AtliQHardwares-SQLAd-hocAnalysis.pbix)  
 
 💼 [LinkedIn Project Post](https://www.linkedin.com/posts/arti-awale_sql-powerbi-dataanalytics-activity-7363842308972118016-D5Au?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cuBwBJtFBcGef4reG7gx9fr-bRZjlHH0)  
 
