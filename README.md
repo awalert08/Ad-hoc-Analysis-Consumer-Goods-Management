@@ -4,10 +4,11 @@
 
 A data-driven business intelligence project designed to analyze sales performance using SQL and Power BI. It delivers targeted insights into product performance, regional sales trends, and customer behavior, supporting data-informed decision-making for business growth.
 
+
 ----
 
 
-## 📌 Project Overview
+## Project Overview
 
 
 This project combines SQL ad-hoc queries with Power BI visualizations to answer specific business questions for AtliQ Hardwares. Using MySQL, sales data was extracted, cleaned, and aggregated to uncover key performance metrics. These insights were then transformed into an interactive Power BI dashboard, allowing stakeholders to identify top-performing products, optimize inventory planning, track regional trends, and spot new sales opportunities.
@@ -52,7 +53,7 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 ---
 
 
-## 📢 Insights & Recommendations
+## Insights & Recommendations
 
 
 - Focus marketing efforts on the top 3 performing product categories.  
@@ -63,10 +64,11 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 ---
 
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
-[ Executive Overview ]
-[High-level KPIs comparing user activity and growth across both platforms.](screenshots/ExecutiveView.PNG)
+
+[ Dashboard Overview ]
+[Visualization for Ad-hoc Requests.](atliq-hw-adhoc-analysis-powerbi/DashboardScreenshot.png)
 
 
 ---
@@ -75,8 +77,9 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 ## 🔗 Project Links
 
 
-📊 Live Dashboard : [Explore the Live Dashboard](https://app.powerbi.com/Redirect?action=OpenApp&appId=5f992669-9f15-450b-855b-b5f18a812acf&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)  
-💼 [LinkedIn Project Post](https://www.linkedin.com/posts/arti-awale_powerbi-ottanalytics-datavisualization-activity-7346910916766044161--lb8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cuBwBJtFBcGef4reG7gx9fr-bRZjlHH0)  
+📊 PowerBI Dashboard : [Explore the Dashboard](atliq-hw-adhoc-analysis-powerbi/AtliQ Hardwares - SQL Ad-hoc Analysis.pbix)  
+
+💼 [LinkedIn Project Post](https://www.linkedin.com/posts/arti-awale_sql-powerbi-dataanalytics-activity-7363842308972118016-D5Au?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2cuBwBJtFBcGef4reG7gx9fr-bRZjlHH0)  
 
 
 ---
@@ -97,19 +100,10 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 ---
 
 
-## 📜 License
-
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-
 ## 📬 Author
+
 
 **Arti Rajendra Awale**  
 [LinkedIn](https://www.linkedin.com/in/arti-awale)  
 📧 artiawale08@gmail.com
-
-
 
