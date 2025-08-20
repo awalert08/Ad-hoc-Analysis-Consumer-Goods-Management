@@ -68,7 +68,7 @@ This project combines SQL ad-hoc queries with Power BI visualizations to answer 
 
 
 [ Dashboard Overview ]
-[Visualization for Ad-hoc Requests.](atliq-hw-adhoc-analysis-powerbi/DashboardScreenshot.png)
+[Visualization for Ad-hoc Requests.](https://github.com/awalert08/Ad-hoc-Analysis-Consumer-Goods-Management/tree/main/atliq-hw-adhoc-analysis-powerbi/DashboardScreenshot.png)
 
 
 ---
